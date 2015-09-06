@@ -5,6 +5,8 @@ ruby '2.1.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.5'
 
+gem 'yo4r'
+
 group :development do
 gem 'sqlite3', '1.3.8'
 end
